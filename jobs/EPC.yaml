@@ -1,0 +1,8 @@
+projectPath: ./EPC
+autoUpdateSettings: true
+queries:
+- Product2
+- Promotion 
+- Rule
+- EntityFilter 
+- Catalog

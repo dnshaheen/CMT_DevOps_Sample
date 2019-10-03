@@ -1,0 +1,6 @@
+#projectPath: ./vlocity_merge/R1
+#projectPath: ./vlocity_merge/R2_US1
+projectPath: ./vlocity_merge/R2_US2
+autoRetryErrors: true
+autoUpdate: true
+queries:

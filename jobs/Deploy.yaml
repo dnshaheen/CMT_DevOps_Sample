@@ -1,0 +1,4 @@
+projectPath: ./vlocity
+autoRetryErrors: true
+autoUpdate: true
+queries:

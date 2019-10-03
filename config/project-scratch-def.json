@@ -1,0 +1,19 @@
+{
+  "orgName": "jgonzalez Company",
+  "edition": "Enterprise",
+  "features": [ "AuthorApex", "DebugApex" ],
+  "settings": {
+    "orgPreferenceSettings": {
+      "s1DesktopEnabled": true,
+      "enhancedEmailEnabled" : true
+    },
+    "productSettings": {
+      "enableRevenueSchedule" : true, 
+      "enableQuantitySchedule" : true, 
+      "enableCascadeActivateToRelatedPrices" : true
+    },
+    "quoteSettings": {
+      "enableQuote": true
+    }
+  }
+}

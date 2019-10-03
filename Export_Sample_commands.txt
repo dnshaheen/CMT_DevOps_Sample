@@ -1,0 +1,15 @@
+### Full Export
+
+vlocity -sfdx.username <Alias> -job jobs/Deploy.yaml packExport
+
+### EPC Export
+
+vlocity -sfdx.username <Alias> -job jobs/EPC.yaml packExport
+
+### Export All DataRaptors and OmniScripts
+
+vlocity -sfdx.username <Alias> -job jobs/OS_DR.yaml packExport -depth 0
+
+### Export single OmniScripts
+
+vlocity -sfdx.username <Alias> -job jobs/Deploy.yaml packExportSingle -type OmniScript -id 01tf4000001p51yAAA

@@ -1,0 +1,6 @@
+projectPath: ./OS_DR
+autoUpdateSettings: true
+autoRetryErrors: true
+queries:
+  - OmniScript
+  - DataRaptor

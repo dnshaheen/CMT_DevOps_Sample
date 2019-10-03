@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <name>ApexClass</name>
+    <members>VlocityDefaultSandboxRefresh</members>
+    <members>VlocityHierarchyPathTriggerUtility</members>
+  </types>
+  <types>
+    <name>Layout</name>
+    <members>Order-Order Layout</members>
+  </types>
+  <types>
+    <name>CustomField</name>
+    <members>vlocity_cmt__OverrideDefinition__c.GlobalKeysPathCustom__c</members>
+    <members>vlocity_cmt__PromotionItem__c.GlobalKeysPathCustom__c</members>
+  </types>
+  <types>
+    <name>ApexPage</name>
+    <members>AccountConsoleCards</members>
+  </types>
+  <types>
+    <name>PermissionSet</name>
+    <members>HandsetBuy</members>
+  </types>
+  <types>
+    <name>StandardValueSet</name>
+    <members>Product2Family</members>
+  </types>
+  <types>
+    <name>StaticResource</name>
+    <members>ProductImages</members>
+  </types>
+  <types>
+    <name>CustomTab</name>
+    <members>HandsetBuy</members>
+  </types>
+  <types>
+    <name>ApexTrigger</name>
+    <members>OverrideDefinitionHierarchyPath</members>
+    <members>PromotionItemHierarchyPath</members>
+  </types>
+  <version>43.0</version>
+</Package>
